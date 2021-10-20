@@ -7,6 +7,7 @@ namespace TextExercise
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World branch!");
+            string s = "";
         }
     }
 }
